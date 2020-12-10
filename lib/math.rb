@@ -29,7 +29,7 @@ end
 puts modulo(34,5)
 
 def square_root(num)
-  math.sqrt num
+  num = math.sqrt
   end
 
 puts square_root(81)
